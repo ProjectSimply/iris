@@ -1,5 +1,5 @@
 
-# Project Title
+# Iris fix for autocomplete on Wordpress old customizer
 
 Wordpress uses Iris for it's colour picker on the customizer. It does this really annoying thing where if you type in a hex code it autocompletes after three characters like 3ab -> 33aabb. 
 
